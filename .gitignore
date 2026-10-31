@@ -19,3 +19,27 @@ numpy.ipynb
 .vscode/
 *~
 test.py
+
+# Python Virtual Environments
+.venv
+.venv/
+**/.venv/
+**/.venv/**
+venv
+venv/
+**/venv/
+**/venv/**
+env/
+env/
+**/env/
+**/env/**
+ENV/
+**/ENV/
+
+# Python Cache & Testing
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+**/.pytest_cache/
+
