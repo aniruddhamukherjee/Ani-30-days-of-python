@@ -1,0 +1,80 @@
+{
+  "app/__init__.py": {
+    "mtime": 1793438506.6256392,
+    "seen": 1793502248.2128115,
+    "ast_hash": "edfd3c411d23a59a7626076b5a4025f9",
+    "semantic_hash": "edfd3c411d23a59a7626076b5a4025f9"
+  },
+  "app/api/v1/api.py": {
+    "mtime": 1793438748.8873012,
+    "seen": 1793502248.2128115,
+    "ast_hash": "b96674be47c59b2f10bdcf23aaad047c",
+    "semantic_hash": "b96674be47c59b2f10bdcf23aaad047c"
+  },
+  "app/api/v1/endpoints/products.py": {
+    "mtime": 1793438801.0240216,
+    "seen": 1793502248.2128115,
+    "ast_hash": "a0e02b4b9ea270752ed8a2860ffb8c1d",
+    "semantic_hash": "a0e02b4b9ea270752ed8a2860ffb8c1d"
+  },
+  "app/core/config.py": {
+    "mtime": 1793438557.4951289,
+    "seen": 1793502248.2128115,
+    "ast_hash": "d802ef37d41ff8e4e200a07eaf52150e",
+    "semantic_hash": "d802ef37d41ff8e4e200a07eaf52150e"
+  },
+  "app/core/database.py": {
+    "mtime": 1793438584.6467226,
+    "seen": 1793502248.2128115,
+    "ast_hash": "705f8613feb0bf8eec2da27c708e571b",
+    "semantic_hash": "705f8613feb0bf8eec2da27c708e571b"
+  },
+  "app/core/security.py": {
+    "mtime": 1793438610.2871099,
+    "seen": 1793502248.2128115,
+    "ast_hash": "46dd32eb6304fae37d389b98eceff473",
+    "semantic_hash": "46dd32eb6304fae37d389b98eceff473"
+  },
+  "app/exceptions/__init__.py": {
+    "mtime": 1793438638.6434414,
+    "seen": 1793502248.2128115,
+    "ast_hash": "3b8c10fc041ae4a77e6a99160d58148e",
+    "semantic_hash": "3b8c10fc041ae4a77e6a99160d58148e"
+  },
+  "app/main.py": {
+    "mtime": 1793438534.4276078,
+    "seen": 1793502248.2128115,
+    "ast_hash": "83e56b49cdd09ce7875fca539ea78b89",
+    "semantic_hash": "83e56b49cdd09ce7875fca539ea78b89"
+  },
+  "app/models/__init__.py": {
+    "mtime": 1793438670.1313784,
+    "seen": 1793502248.2128115,
+    "ast_hash": "c3d5044f9f620337e7b1adff53e0802e",
+    "semantic_hash": "c3d5044f9f620337e7b1adff53e0802e"
+  },
+  "app/schemas/__init__.py": {
+    "mtime": 1793438701.4286606,
+    "seen": 1793502248.2128115,
+    "ast_hash": "758ed58cd30957f91f90c1bbc4a6769d",
+    "semantic_hash": "758ed58cd30957f91f90c1bbc4a6769d"
+  },
+  "app/services/__init__.py": {
+    "mtime": 1793438730.2599998,
+    "seen": 1793502248.2128115,
+    "ast_hash": "d8106244df7d65813bb809d3b2a87343",
+    "semantic_hash": "d8106244df7d65813bb809d3b2a87343"
+  },
+  "docker-compose.yml": {
+    "mtime": 1793430900.5070932,
+    "seen": 1793502248.2128115,
+    "ast_hash": "3ca4788fa3d2fd81ef115bc8790b2693",
+    "semantic_hash": "3ca4788fa3d2fd81ef115bc8790b2693"
+  },
+  "tests/test_main.py": {
+    "mtime": 1793438827.7892134,
+    "seen": 1793502248.2128115,
+    "ast_hash": "f92a83fd3e25b9b66f99c818aa8d1a5f",
+    "semantic_hash": "f92a83fd3e25b9b66f99c818aa8d1a5f"
+  }
+}

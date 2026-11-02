@@ -1,0 +1,335 @@
+{
+  "communities": {
+    "0": [
+      "app_api_v1_api",
+      "app_api_v1_api_rationale_1",
+      "app_api_v1_endpoints_products",
+      "app_api_v1_endpoints_products_create_product",
+      "app_api_v1_endpoints_products_delete_product",
+      "app_api_v1_endpoints_products_get_product",
+      "app_api_v1_endpoints_products_get_product_by_sku",
+      "app_api_v1_endpoints_products_list_products",
+      "app_api_v1_endpoints_products_py_asyncsession",
+      "app_api_v1_endpoints_products_py_get",
+      "app_api_v1_endpoints_products_rationale_1",
+      "app_api_v1_endpoints_products_rationale_100",
+      "app_api_v1_endpoints_products_rationale_121",
+      "app_api_v1_endpoints_products_rationale_142",
+      "app_api_v1_endpoints_products_rationale_181",
+      "app_api_v1_endpoints_products_rationale_222",
+      "app_api_v1_endpoints_products_rationale_56",
+      "app_api_v1_endpoints_products_update_product",
+      "app_models_init_product",
+      "app_models_init_rationale_33",
+      "base",
+      "delete",
+      "fastapi",
+      "post",
+      "put",
+      "uuid"
+    ],
+    "1": [
+      "app_exceptions_init",
+      "app_exceptions_init_appexception",
+      "app_exceptions_init_appexception_init",
+      "app_exceptions_init_notfoundexception",
+      "app_exceptions_init_notfoundexception_init",
+      "app_exceptions_init_py_fastapi",
+      "app_exceptions_init_rationale_1",
+      "app_exceptions_init_rationale_33",
+      "app_exceptions_init_rationale_49",
+      "app_exceptions_init_rationale_57",
+      "app_exceptions_init_rationale_66",
+      "app_exceptions_init_setup_exception_handlers",
+      "app_exceptions_init_setup_exception_handlers_app_exception_handler",
+      "app_exceptions_init_setup_exception_handlers_unhandled_exception_handler",
+      "app_exceptions_init_unauthorizedexception",
+      "app_exceptions_init_unauthorizedexception_init",
+      "exception",
+      "fastapi_responses"
+    ],
+    "2": [
+      "app_main",
+      "app_main_health_check",
+      "app_main_lifespan",
+      "app_main_py_fastapi",
+      "app_main_py_get",
+      "app_main_rationale_1",
+      "app_main_rationale_102",
+      "app_main_rationale_33",
+      "asyncio",
+      "contextlib",
+      "fastapi_middleware_cors",
+      "httpx",
+      "pytest",
+      "tests_test_main",
+      "tests_test_main_rationale_1",
+      "tests_test_main_rationale_36",
+      "tests_test_main_test_health_check"
+    ],
+    "3": [
+      "docker_compose",
+      "docker_compose_db_container_name",
+      "docker_compose_db_environment",
+      "docker_compose_db_healthcheck",
+      "docker_compose_db_image",
+      "docker_compose_db_ports",
+      "docker_compose_db_restart",
+      "docker_compose_db_volumes",
+      "docker_compose_healthcheck_interval",
+      "docker_compose_healthcheck_retries",
+      "docker_compose_healthcheck_test",
+      "docker_compose_healthcheck_timeout",
+      "docker_compose_services",
+      "docker_compose_services_db",
+      "docker_compose_version",
+      "docker_compose_volumes",
+      "docker_compose_volumes_postgres_data"
+    ],
+    "4": [
+      "app_services_init_baseservice",
+      "app_services_init_baseservice_create",
+      "app_services_init_baseservice_get",
+      "app_services_init_baseservice_get_multi",
+      "app_services_init_baseservice_init",
+      "app_services_init_baseservice_remove",
+      "app_services_init_py_any",
+      "app_services_init_py_asyncsession",
+      "app_services_init_rationale_47",
+      "app_services_init_rationale_58",
+      "app_services_init_rationale_67",
+      "app_services_init_rationale_74",
+      "app_services_init_rationale_93",
+      "createschematype",
+      "modeltype"
+    ],
+    "5": [
+      "app_core_database",
+      "app_core_database_get_db",
+      "app_core_database_py_asyncsession",
+      "app_core_database_rationale_1",
+      "app_core_database_rationale_69",
+      "app_models_init",
+      "app_models_init_rationale_1",
+      "app_services_init",
+      "app_services_init_rationale_1",
+      "datetime",
+      "sqlalchemy",
+      "sqlalchemy_dialects_postgresql",
+      "sqlalchemy_ext_asyncio",
+      "sqlalchemy_orm"
+    ],
+    "6": [
+      "docker_compose_api_build",
+      "docker_compose_api_container_name",
+      "docker_compose_api_depends_on",
+      "docker_compose_api_env_file",
+      "docker_compose_api_environment",
+      "docker_compose_api_ports",
+      "docker_compose_api_restart",
+      "docker_compose_api_volumes",
+      "docker_compose_build_context",
+      "docker_compose_build_dockerfile",
+      "docker_compose_db_condition",
+      "docker_compose_depends_on_db",
+      "docker_compose_services_api"
+    ],
+    "7": [
+      "app_core_security",
+      "app_core_security_create_access_token",
+      "app_core_security_get_password_hash",
+      "app_core_security_py_any",
+      "app_core_security_rationale_1",
+      "app_core_security_rationale_39",
+      "app_core_security_rationale_52",
+      "app_core_security_rationale_66",
+      "app_core_security_verify_password",
+      "jose",
+      "passlib_context",
+      "timedelta"
+    ],
+    "8": [
+      "app_schemas_init",
+      "app_schemas_init_productbase",
+      "app_schemas_init_productcreate",
+      "app_schemas_init_productresponse",
+      "app_schemas_init_productupdate",
+      "app_schemas_init_rationale_1",
+      "app_schemas_init_rationale_34",
+      "app_schemas_init_rationale_69",
+      "app_schemas_init_rationale_77",
+      "app_schemas_init_rationale_98",
+      "basemodel",
+      "typing"
+    ],
+    "9": [
+      "app_core_config",
+      "app_core_config_rationale_1",
+      "app_core_config_rationale_26",
+      "app_core_config_rationale_61",
+      "app_core_config_settings",
+      "app_core_config_settings_async_database_url",
+      "basesettings",
+      "pydantic",
+      "pydantic_settings"
+    ],
+    "10": [
+      "app_init",
+      "app_init_rationale_1"
+    ]
+  },
+  "cohesion": {
+    "0": 0.12615384615384614,
+    "1": 0.1437908496732026,
+    "2": 0.125,
+    "3": 0.11764705882352941,
+    "4": 0.21904761904761905,
+    "5": 0.16483516483516483,
+    "6": 0.15384615384615385,
+    "7": 0.16666666666666666,
+    "8": 0.21212121212121213,
+    "9": 0.2222222222222222,
+    "10": 1.0
+  },
+  "gods": [
+    {
+      "id": "app_models_init_product",
+      "label": "Product",
+      "degree": 9
+    },
+    {
+      "id": "docker_compose_services_api",
+      "label": "api",
+      "degree": 9
+    },
+    {
+      "id": "docker_compose_services_db",
+      "label": "db",
+      "degree": 8
+    },
+    {
+      "id": "app_services_init_baseservice",
+      "label": "BaseService",
+      "degree": 7
+    },
+    {
+      "id": "app_api_v1_endpoints_products_update_product",
+      "label": "update_product()",
+      "degree": 7
+    },
+    {
+      "id": "app_exceptions_init_appexception",
+      "label": "AppException",
+      "degree": 6
+    },
+    {
+      "id": "app_api_v1_endpoints_products_create_product",
+      "label": "create_product()",
+      "degree": 6
+    },
+    {
+      "id": "app_api_v1_endpoints_products_get_product",
+      "label": "get_product()",
+      "degree": 6
+    },
+    {
+      "id": "app_exceptions_init_setup_exception_handlers",
+      "label": "setup_exception_handlers()",
+      "degree": 6
+    },
+    {
+      "id": "app_schemas_init_productbase",
+      "label": "ProductBase",
+      "degree": 5
+    }
+  ],
+  "surprises": [
+    {
+      "source": "create_product()",
+      "target": "ProductCreate",
+      "source_files": [
+        "app/api/v1/endpoints/products.py",
+        "app/schemas/__init__.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "update_product()",
+      "target": "ProductUpdate",
+      "source_files": [
+        "app/api/v1/endpoints/products.py",
+        "app/schemas/__init__.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "create_product()",
+      "target": "Product",
+      "source_files": [
+        "app/api/v1/endpoints/products.py",
+        "app/models/__init__.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "cross-file semantic connection"
+    },
+    {
+      "source": "get_product()",
+      "target": "Product",
+      "source_files": [
+        "app/api/v1/endpoints/products.py",
+        "app/models/__init__.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "cross-file semantic connection"
+    },
+    {
+      "source": "get_product_by_sku()",
+      "target": "Product",
+      "source_files": [
+        "app/api/v1/endpoints/products.py",
+        "app/models/__init__.py"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "cross-file semantic connection"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `BaseService` connect `Community 4` to `Community 5`?",
+      "why": "High betweenness centrality (0.131) - this node is a cross-community bridge."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 0` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.12615384615384614 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `setup_exception_handlers()` connect `Community 1` to `Community 2`?",
+      "why": "High betweenness centrality (0.035) - this node is a cross-community bridge."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 1` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.1437908496732026 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 2` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.125 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 3` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.11764705882352941 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

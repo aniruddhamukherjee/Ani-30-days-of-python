@@ -91,9 +91,10 @@ class ProductUpdate(BaseModel):
     is_active: Optional[bool] = Field(None, description="Updated active status flag")
 
 
-# 📘 RESPONSE SCHEMA:
-# When sending data back to the user, we include database-generated read-only fields:
-# `product_id`, `created_at`, and `updated_at`.
+# 📘 RESPONSE SCHEMA (Class Inheritance):
+# By inheriting from `ProductBase`, this schema includes ALL base product attributes
+# (sku, name, price, stock, metadata, tags, is_active) PLUS database-generated
+# read-only fields: `product_id`, `created_at`, and `updated_at`.
 class ProductResponse(ProductBase):
     """Schema for serializing products returned to API clients."""
 

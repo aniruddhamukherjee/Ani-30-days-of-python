@@ -101,3 +101,9 @@ class BaseService(Generic[ModelType, CreateSchemaType, UpdateSchemaType]):
         return obj
 
 
+# 📘 EXPORT SERVICES:
+from app.services.product import ProductService, product_service
+
+__all__ = ["BaseService", "ProductService", "product_service"]
+
+

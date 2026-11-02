@@ -330,4 +330,3 @@ The application follows the **Separation of Concerns (SoC)** design principle. H
 | **Exceptions (`app/exceptions/`)** | [`__init__.py`](file:///d:/work/code/Ani-30-Days-Of-Python/29_Day_Building_API/python-fastapi-products-API/my_enterprise_api/app/exceptions/__init__.py) | **Error Handling & Normalization:**<br>• Defines custom exception classes (`AppException`, `NotFoundException`, `UnauthorizedException`).<br>• Registers FastAPI exception handlers (`setup_exception_handlers`) to intercept uncaught errors and format them into consistent JSON response structures (`{"success": false, "error": ...}`). |
 | **Migrations (`migrations/`)** | Alembic configuration & versions | **Database Version Control:**<br>• Tracks schema evolution over time with Alembic revision scripts. |
 | **Tests (`tests/`)** | Automated pytest suite | **Quality Assurance:**<br>• Async integration and unit tests verifying endpoints, response status codes, and database operations. |
-

@@ -1,0 +1,13 @@
+{
+  "0": "Product API Endpoints",
+  "1": "Exception Handling",
+  "2": "App Lifecycle & Health",
+  "3": "Database Infrastructure (Docker)",
+  "4": "Base CRUD Service",
+  "5": "Database Session & ORM",
+  "6": "API Service Infrastructure (Docker)",
+  "7": "Security & Authentication",
+  "8": "Product Schemas & DTOs",
+  "9": "Application Configuration",
+  "10": "App Package Root"
+}
